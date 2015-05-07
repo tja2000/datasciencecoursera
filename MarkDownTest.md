@@ -4,6 +4,12 @@
 * listitem 2
 * listitem 21
 ##Another second level header
+test
+
 ###Header 3
 
-And some text.
+And some html for fun.
+<ul>
+<li><p>weird 1</p></li>
+<li><p>weird 2</p></li>
+</ul>
